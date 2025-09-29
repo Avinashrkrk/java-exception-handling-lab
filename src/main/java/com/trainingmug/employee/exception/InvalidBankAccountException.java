@@ -1,8 +1,7 @@
 package com.trainingmug.employee.exception;
-public class InvalidBankAccountException extends Exception {
-
-    public InvalidBankAccountException(String message) {
-        super(message);
-    }
-
+public class InvalidBankAccountException {
+    /*
+    Create this class to be an Exception class
+    and use the appropriate constructor
+    */
 }
